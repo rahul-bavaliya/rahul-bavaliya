@@ -1,6 +1,6 @@
 ### Hi, I'm Rahul 👋
 
-**Backend & AI Developer** in Regina, Saskatchewan. I've spent 6+ years building production systems, from enterprise Java at TCS and Newgen Software to Python/FastAPI microservices. These days I focus on **LLM applications that have to work on real, messy data**.
+**Backend Developer** in Regina, Saskatchewan: 6 years across Java and Python enterprise systems (Tata Consultancy Services, Newgen Software, Brandt Tractor), now focused on **connecting large language models to real products**.
 
 - 🔭 Building a **self-learning browser agent** that operates Chrome/Edge and improves from its own runs
 - 🧠 Recent work: **hybrid RAG + ML** systems (retrieval combined with XGBoost) for service-time and construction-cost estimation
@@ -10,16 +10,17 @@
 
 #### Stack
 
-`Python` `FastAPI` `Django` `Java` `Rust` `TypeScript` `PostgreSQL` `Docker` `REST APIs`
-`RAG` `Claude API` `NVIDIA NIM` `Llama 3.1` `ChromaDB` `Whisper` `XGBoost` `Power BI`
+`Python` `FastAPI` `Java` `Rust` `SQL` `REST APIs` `Liferay DXP`
+`LLM integration` `RAG` `NLP` `IBM Watson` `NVIDIA NIM` `ChromaDB` `XGBoost` `Power BI` `Power Apps`
 
 #### 📌 Featured
 
 | Project | What it is |
 |---|---|
 | [Quoto](https://github.com/rahul-bavaliya/quoto) | Rust quoting & repair-order system · SK/AB GST/PST · integer-cents money |
+| [SaskJobs scraper](https://github.com/rahul-bavaliya/saskjobs) | Python REST API that scrapes SaskJobs listings |
 | [AI Estimate Support](https://github.com/rahul-bavaliya/SaskEnergy) | Hybrid RAG for construction cost estimating · governed answers |
 
 #### Reach me
 
-Visit my portfolio at [rahul-bavaliya.github.io](https://rahul-bavaliya.github.io)
+[Portfolio](https://rahul-bavaliya.github.io) · [LinkedIn](https://www.linkedin.com/in/rahul-bavaliya) · Rahul.Bavaliya.Jobs@gmail.com
