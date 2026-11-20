@@ -41,12 +41,14 @@ Through Saskatchewan Polytechnic's **Artificial Intelligence & Data Analytics** 
 
 ### `03` Selected projects
 
+<sub>Oldest first</sub>
+
 | Project | What it is |
 |---|---|
-| 🦀 [**Quoto**](https://github.com/rahul-bavaliya/quoto) | Quoting and repair-order system for service shops, written in Rust. Integer-cents money, SK/AB GST/PST, quote lifecycle enforced by the type system. |
-| 🧠 [**Construction Cost Estimator**](https://github.com/rahul-bavaliya/SaskEnergy) | Hybrid RAG assistant for early-stage construction estimates, with a governance layer that keeps answers source-cited. |
-| 🔎 [**SaskJobs Scraping API**](https://github.com/rahul-bavaliya/saskjobs) | Python REST API that scrapes SaskJobs listings into clean, structured data. |
 | 🎓 **AI Capstone Projects** | Python/FastAPI backends connecting LLMs to AI diagnostics, smart recommendations, natural-language interfaces, RAG and PDF chatbots. |
+| 🔎 [**SaskJobs Scraping API**](https://github.com/rahul-bavaliya/saskjobs) | Python REST API that scrapes SaskJobs listings into clean, structured data. |
+| 🧠 [**Construction Cost Estimator**](https://github.com/rahul-bavaliya/SaskEnergy) | Hybrid RAG assistant for early-stage construction estimates, with a governance layer that keeps answers source-cited. |
+| 🦀 [**Quoto**](https://github.com/rahul-bavaliya/quoto) | Quoting and repair-order system for service shops, written in Rust. Integer-cents money, SK/AB GST/PST, quote lifecycle enforced by the type system. |
 | 🤖 **Self-Learning Browser Agent** | *In progress.* An agent on pretrained models that operates Chrome and Edge and improves from its own runs. |
 
 More on the [portfolio site](https://rahul-bavaliya.github.io/#work).
